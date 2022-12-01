@@ -1,0 +1,5 @@
+Credentials cache: API:C973E553-37CB-4DDF-9FD3-71C77DDDF54C
+        Principal: mnajid@1337.MA
+
+  Issued                Expires               Principal
+Aug  2 14:33:16 2021  Aug  3 00:33:16 2021  krbtgt/1337.MA@1337.MA
